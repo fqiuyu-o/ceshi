@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: chapter1
-msgid "第一章  总  则"
+msgid "第一章  总  则1"
 msgstr ""
 
 #: article1
