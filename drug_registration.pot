@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: chapter1
-msgid "第一章  总  则"
+msgid "第一章  总  则1"
 msgstr ""
 
 #: article1
